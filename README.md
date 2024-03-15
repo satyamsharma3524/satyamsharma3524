@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
-<h3 align="center">Student at G.H.G Khalsa College, Ludhiana🌟.</h3>
+<h3 align="center">Software Engineer @ InstaAstro Technologies Pvt. Ltd.🌟.</h3>
 
 <br>
 
