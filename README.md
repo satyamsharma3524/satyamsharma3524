@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
-<h3 align="center">Software Engineer @ InstaAstro Technologies Pvt. Ltd.🌟.</h3>
+<h3 align="center">Sr. Software Engineer🌟.</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="satyamsharma3524" /></p>
 
 
-- 🌱 I’m currently learning Data Science and Machine Learning.
+- 🌱 Experienced Software Engineer with 3+ years of experience with Back-end and Server Technologies.
 
 - 📫 How to reach me **satyamsharma3524@gmail.com**
 
