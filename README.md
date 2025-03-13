@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
-<h3 align="center">Sr. Software Engineer🌟.</h3>
+<h3 align="center">Sr. Software Engineer🌟</h3>
 
 <br>
 
